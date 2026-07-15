@@ -154,11 +154,19 @@ The goal is to demonstrate technical skills while following professional softwar
 
 ---
 
-## Current Status
+## Progress
 
-Current Phase:
-
-**Phase 1 — Project Setup**
+- [x] Project Setup
+- [ ] Business Planning
+- [ ] Dataset Selection
+- [ ] Database Design
+- [ ] SQL Development
+- [ ] Python Analysis
+- [ ] Exploratory Data Analysis
+- [ ] Statistical Analysis
+- [ ] Power BI Dashboard
+- [ ] Machine Learning
+- [ ] Final Report
 
 ---
 
