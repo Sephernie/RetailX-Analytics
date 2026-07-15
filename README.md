@@ -1,4 +1,4 @@
-# RetailX-Analytics
+# RetailX Analytics
 
 > End-to-End Retail Data Analytics & Data Science Project
 
