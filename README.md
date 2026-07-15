@@ -14,4 +14,175 @@
 
 ## Project overview
 
-I will be cleaning and analizing a set of data related to sales of a company and producing insights that will help increase the company's revenue.
+RetailX Analytics is an end-to-end data analytics project designed to simulate the work of a Junior Data Analyst / Data Scientist in a real retail company.
+
+In this fictional business scenario, RetailX has experienced fluctuations in sales performance and customer behavior. Management wants to understand what is happening within the business and use data-driven insights to improve decision making.
+
+This project covers the complete analytics lifecycle:
+
+- Database Design
+- SQL Development
+- Exploratory Data Analysis
+- Statistical Analysis
+- Power BI Dashboards
+- Machine Learning
+- Business Reporting
+
+The goal is to demonstrate technical skills while following professional software engineering and analytics practices.
+
+---
+
+## Project Objectives
+
+- Design a relational SQL database
+- Clean and transform business data
+- Analyze sales and customer behavior
+- Build reusable SQL queries
+- Perform exploratory data analysis
+- Create executive dashboards
+- Build predictive machine learning models
+- Present findings to stakeholders
+
+---
+
+## Technology Stack
+
+| Category | Technologies |
+|-----------|--------------|
+| Database | SQL Server |
+| Query Language | T-SQL |
+| Programming | Python |
+| Data Analysis | Pandas, NumPy |
+| Visualization | Power BI, Matplotlib, Plotly |
+| Machine Learning | Scikit-learn |
+| Version Control | Git & GitHub |
+
+---
+
+## Project Roadmap
+
+### Phase 1 — Project Setup
+
+- Repository Structure
+- Folder Organization
+- Documentation
+- Version Control
+
+### Phase 2 — Business Planning
+
+- Business Objectives
+- Scope
+- Success Metrics
+- Data Requirements
+
+### Phase 3 — Dataset Selection
+
+- Evaluate datasets
+- Compare quality
+- Choose production dataset
+
+### Phase 4 — Database Design
+
+- ER Diagram
+- Normalization
+- Keys & Relationships
+
+### Phase 5 — SQL Development
+
+- Complex Queries
+- Views
+- Stored Procedures
+- Performance Optimization
+
+### Phase 6 — Python Analysis
+
+- Data Cleaning
+- Feature Engineering
+- Exploratory Analysis
+
+### Phase 7 — Exploratory Data Analysis
+
+- Sales Trends
+- Customer Insights
+- Product Performance
+
+### Phase 8 — Statistical Analysis
+
+- Hypothesis Testing
+- Correlation Analysis
+- Business Validation
+
+### Phase 9 — Power BI Dashboard
+
+- Executive Dashboard
+- KPI Monitoring
+- Interactive Reports
+
+### Phase 10 — Machine Learning
+
+- Sales Forecasting
+- Customer Segmentation
+- Churn Prediction
+- Product Recommendation
+
+### Phase 11 — Final Report
+
+- Executive Summary
+- Findings
+- Recommendations
+- Future Work
+
+---
+
+## Skills Demonstrated
+
+- SQL Server
+- Database Design
+- Advanced SQL
+- Python
+- Pandas
+- NumPy
+- Data Cleaning
+- Exploratory Data Analysis
+- Statistics
+- Data Visualization
+- Power BI
+- Machine Learning
+- Git
+- GitHub
+- Technical Documentation
+
+---
+
+## Current Status
+
+Current Phase:
+
+**Phase 1 — Project Setup**
+
+---
+
+## Future Enhancements
+
+- Automated ETL Pipeline
+- Docker Deployment
+- CI/CD Workflow
+- Cloud Data Warehouse
+- Interactive Web Dashboard
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+## Author
+
+**Sepehr Bakhshivash**
+
+Aspiring Data Analyst / Data Scientist
+
+- GitHub: https://github.com/Sephernie
+- LinkedIn: https://linkedin.com/in/sepehr-bakhshivash-29121841a
