@@ -157,7 +157,7 @@ The goal is to demonstrate technical skills while following professional softwar
 ## Progress
 
 - [x] Project Setup
-- [ ] Business Planning
+- [x] Business Planning
 - [ ] Dataset Selection
 - [ ] Database Design
 - [ ] SQL Development
