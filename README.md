@@ -12,7 +12,7 @@
 
 ---
 
-## Project overview
+## Project Overview
 
 RetailX Analytics is an end-to-end data analytics project designed to simulate the work of a Junior Data Analyst / Data Scientist in a real retail company.
 
