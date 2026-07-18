@@ -3,7 +3,7 @@
 
 ---
 
-## 1. Project Overview
+# 1. Project Overview
 
 RetailX Analytics is a portfolio project that simulates a real-world data analytics engagement for a fictional online retail company called **RetailX**.
 
