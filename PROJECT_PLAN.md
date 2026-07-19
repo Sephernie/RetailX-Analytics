@@ -178,8 +178,8 @@ Upon completion, RetailX management should be able to:
 | Phase | Description |
 |---------|-------------|
 | Phase 1 | Project Setup ✅ |
-| Phase 2 | Business Planning |
-| Phase 3 | Dataset Selection |
+| Phase 2 | Business Planning ✅ |
+| Phase 3 | Dataset Selection ✅ |
 | Phase 4 | Database Design |
 | Phase 5 | SQL Development |
 | Phase 6 | Python Analysis |

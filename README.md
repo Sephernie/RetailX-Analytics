@@ -158,7 +158,7 @@ The goal is to demonstrate technical skills while following professional softwar
 
 - [x] Project Setup
 - [x] Business Planning
-- [ ] Dataset Selection
+- [x] Dataset Selection
 - [ ] Database Design
 - [ ] SQL Development
 - [ ] Python Analysis

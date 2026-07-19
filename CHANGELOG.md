@@ -24,3 +24,12 @@ All notable changes to this project will be documented in this file.
 - BUSINESS_QUESTIONS.md
 - KPI_DEFINITIONS.md
 - DATA_REQUIREMENTS.md
+
+---
+
+## v0.3.0 - 2026-07-19
+
+### Phase 3 completed
+
+### Added:
+- Raw data
